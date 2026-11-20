@@ -1,0 +1,85 @@
+skill,aliases,category,level,est_hours
+python,py|python3,programming,beginner,40
+sql,mysql|postgresql|postgres|sqlite|t-sql|pl/sql|sql server|oracle|mssql|ms sql,database,beginner,30
+excel,ms excel|microsoft excel|advanced excel|spreadsheets|google sheets|sheets,analytics,beginner,20
+statistics,statistical analysis|probability,math,beginner,30
+pandas,,data,beginner,20
+numpy,,data,beginner,12
+data cleaning,data wrangling|data preprocessing|data cleansing,data,beginner,12
+data visualization,data viz|dashboards,analytics,beginner,15
+matplotlib,,data,beginner,10
+seaborn,,data,beginner,8
+power bi,powerbi|dax,analytics,beginner,25
+tableau,,analytics,beginner,25
+eda,exploratory data analysis,data,intermediate,12
+machine learning,ml,ml,intermediate,60
+scikit-learn,sklearn|scikit learn,ml,intermediate,25
+deep learning,neural networks|neural network,ml,advanced,60
+tensorflow,,ml,advanced,35
+keras,,ml,advanced,15
+pytorch,,ml,advanced,35
+nlp,natural language processing,ml,advanced,40
+computer vision,opencv,ml,advanced,40
+feature engineering,,ml,intermediate,15
+model deployment,mlops|model serving,ml,advanced,25
+linear algebra,,math,intermediate,25
+html,html5,web,beginner,15
+css,css3,web,beginner,20
+javascript,js|es6|ecmascript,web,beginner,45
+typescript,ts,web,intermediate,25
+react,reactjs|react.js,web,intermediate,40
+angular,angularjs,web,intermediate,40
+vue,vuejs|vue.js,web,intermediate,35
+node.js,nodejs|node,web,intermediate,30
+express,expressjs|express.js,web,intermediate,15
+rest api,restful|rest apis|api development,backend,intermediate,15
+responsive design,bootstrap|tailwind|tailwind css,web,beginner,12
+django,,backend,intermediate,40
+flask,,backend,intermediate,25
+fastapi,,backend,intermediate,20
+mongodb,mongo,database,intermediate,20
+orm,sqlalchemy|django orm,backend,intermediate,12
+oop,object oriented programming|object-oriented programming,programming,beginner,25
+data structures,dsa|algorithms|data structures and algorithms,programming,intermediate,50
+git,github|version control|gitlab,tools,beginner,10
+linux,unix,tools,beginner,20
+docker,containers,tools,intermediate,15
+testing,pytest|unit testing|unittest|jest,tools,intermediate,15
+web scraping,beautifulsoup|scrapy|selenium,data,intermediate,12
+automation,scripting,programming,beginner,12
+java,,programming,beginner,45
+c++,cpp,programming,beginner,45
+jupyter,jupyter notebook|colab|google colab,tools,beginner,5
+communication,,soft,beginner,10
+problem solving,,soft,beginner,10
+r,r programming|rstudio,programming,beginner,40
+aws,amazon web services|ec2|s3|lambda,cloud,intermediate,50
+azure,microsoft azure,cloud,intermediate,50
+gcp,google cloud|google cloud platform,cloud,intermediate,50
+spark,apache spark|pyspark,data,intermediate,50
+hadoop,hdfs|mapreduce|hive,data,intermediate,40
+scala,,programming,intermediate,50
+snowflake,,data,intermediate,30
+databricks,,data,intermediate,30
+kafka,apache kafka,data,advanced,40
+airflow,apache airflow,data,intermediate,30
+etl,elt|data pipelines|data pipeline|data warehousing|data warehouse,data,intermediate,40
+kubernetes,k8s,tools,advanced,40
+terraform,infrastructure as code,tools,intermediate,30
+ci/cd,cicd|jenkins|github actions|gitlab ci,tools,intermediate,30
+bash,shell|shell scripting|powershell,tools,beginner,20
+sas,,analytics,intermediate,40
+bigquery,,database,intermediate,25
+redshift,,database,intermediate,25
+nosql,cassandra|dynamodb|redis|elasticsearch,database,intermediate,30
+go,golang,programming,intermediate,50
+c#,csharp|.net|dotnet,programming,intermediate,60
+looker,looker studio|data studio,analytics,beginner,20
+qlik,qlikview|qlik sense,analytics,beginner,20
+sap,,tools,intermediate,40
+vba,excel vba|macros,analytics,intermediate,25
+spss,,analytics,beginner,20
+matlab,,programming,intermediate,40
+jira,confluence|agile|scrum,tools,beginner,10
+powerpoint,,tools,beginner,10
+ssis,ssrs|ssas,data,intermediate,30

@@ -1,0 +1,56 @@
+skill,prerequisite
+pandas,python
+numpy,python
+data cleaning,pandas
+eda,pandas
+matplotlib,python
+seaborn,matplotlib
+data visualization,excel
+power bi,excel
+tableau,excel
+machine learning,python
+machine learning,statistics
+scikit-learn,machine learning
+scikit-learn,pandas
+feature engineering,pandas
+deep learning,machine learning
+deep learning,linear algebra
+tensorflow,deep learning
+keras,tensorflow
+pytorch,deep learning
+nlp,deep learning
+computer vision,deep learning
+model deployment,machine learning
+model deployment,docker
+css,html
+javascript,html
+responsive design,css
+react,javascript
+typescript,javascript
+angular,typescript
+vue,javascript
+node.js,javascript
+express,node.js
+rest api,python
+django,python
+django,oop
+flask,python
+fastapi,python
+orm,sql
+oop,python
+testing,python
+mongodb,sql
+spark,python
+spark,sql
+databricks,spark
+airflow,python
+etl,sql
+snowflake,sql
+bigquery,sql
+redshift,sql
+kubernetes,docker
+ci/cd,git
+terraform,aws
+kafka,python
+vba,excel
+looker,sql

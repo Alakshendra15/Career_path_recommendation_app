@@ -1,0 +1,23 @@
+role_title,career_id,level,required_skills
+Junior Data Analyst,data_analyst,entry,sql|excel|data visualization|statistics
+Business Analyst Trainee,data_analyst,entry,excel|sql|power bi|communication
+BI Developer Intern,data_analyst,entry,power bi|sql|data visualization|tableau
+Reporting Analyst,data_analyst,entry,excel|sql|data cleaning
+Junior Data Scientist,data_scientist,entry,python|statistics|pandas|machine learning|scikit-learn
+Data Science Intern,data_scientist,entry,python|pandas|numpy|eda
+Research Analyst (Analytics),data_scientist,entry,statistics|python|data visualization
+Python Developer Intern,python_developer,entry,python|oop|git
+Junior Backend Developer,python_developer,entry,python|django|rest api|sql
+Automation Engineer Trainee,python_developer,entry,python|automation|linux|git
+Software Engineer Trainee,python_developer,entry,python|data structures|oop|sql
+Junior Web Developer,web_developer,entry,html|css|javascript|responsive design
+Frontend Developer Intern,web_developer,entry,javascript|react|css|git
+Full Stack Developer Trainee,web_developer,entry,javascript|node.js|react|sql
+UI Developer,web_developer,entry,html|css|responsive design|javascript
+ML Engineer Intern,ml_engineer,entry,python|machine learning|scikit-learn|numpy
+Junior AI Engineer,ml_engineer,entry,python|deep learning|tensorflow|machine learning
+Machine Learning Trainee,ml_engineer,entry,python|machine learning|linear algebra|pandas
+Junior Data Engineer,data_engineer,entry,python|sql|etl|spark
+Data Engineer Trainee,data_engineer,entry,sql|python|airflow|aws
+Cloud Support Associate,cloud_engineer,entry,aws|linux|bash|git
+Junior DevOps Engineer,cloud_engineer,entry,docker|ci/cd|linux|git|aws

@@ -1,0 +1,56 @@
+{
+  "data": {
+    "real_postings": 583378,
+    "unique_real_rows": 101503,
+    "test_postings": 115919,
+    "classes": [
+      "cloud_engineer",
+      "data_analyst",
+      "data_engineer",
+      "data_scientist",
+      "ml_engineer",
+      "python_developer",
+      "web_developer"
+    ],
+    "real_classes": [
+      "cloud_engineer",
+      "data_analyst",
+      "data_engineer",
+      "data_scientist",
+      "ml_engineer"
+    ],
+    "weak_label_classes": [
+      "python_developer",
+      "web_developer"
+    ],
+    "weak_postings": 16832,
+    "synthetic_samples": 5993
+  },
+  "chosen_C": 0.05,
+  "held_out_real": {
+    "model": {
+      "top1": 0.5415850723349925,
+      "top3": 0.862343532984239,
+      "macro_f1": 0.441219027608924
+    },
+    "per_class_recall": {
+      "cloud_engineer": 0.5403411710465652,
+      "data_analyst": 0.710703571630724,
+      "data_engineer": 0.5313955866645456,
+      "data_scientist": 0.37571821134149386,
+      "ml_engineer": 0.45249058183340307
+    },
+    "majority_class_top1": 0.37960127330290977
+  },
+  "same_sample_comparison": {
+    "rule_based": {
+      "top1": 0.50875,
+      "top3": 0.734,
+      "n_sampled_postings": 4000
+    },
+    "model": {
+      "top1": 0.53425,
+      "top3": 0.864
+    }
+  }
+}

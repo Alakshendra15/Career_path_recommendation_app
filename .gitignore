@@ -1,0 +1,28 @@
+# Environment configuration
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated files
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local uploads and generated output
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# local dev database
+backend/.pgdata/
+
+# training data download (72 MB, see ai-ml/training/README.md) and Expo cache
+ai-ml/data/real/
+.expo/
+frontend/.expo/

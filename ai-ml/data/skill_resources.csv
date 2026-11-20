@@ -1,0 +1,83 @@
+skill,title,url,type
+python,Python Official Tutorial,https://docs.python.org/3/tutorial/,doc
+python,Kaggle Learn - Python,https://www.kaggle.com/learn/python,course
+sql,Kaggle Learn - Intro to SQL,https://www.kaggle.com/learn/intro-to-sql,course
+sql,SQLBolt Interactive Lessons,https://sqlbolt.com/,course
+pandas,Kaggle Learn - Pandas,https://www.kaggle.com/learn/pandas,course
+pandas,Pandas Getting Started,https://pandas.pydata.org/docs/getting_started/index.html,doc
+numpy,NumPy Absolute Beginners Guide,https://numpy.org/doc/stable/user/absolute_beginners.html,doc
+data cleaning,Kaggle Learn - Data Cleaning,https://www.kaggle.com/learn/data-cleaning,course
+data visualization,Kaggle Learn - Data Visualization,https://www.kaggle.com/learn/data-visualization,course
+matplotlib,Matplotlib Tutorials,https://matplotlib.org/stable/tutorials/index.html,doc
+machine learning,Kaggle Learn - Intro to Machine Learning,https://www.kaggle.com/learn/intro-to-machine-learning,course
+scikit-learn,Scikit-learn User Guide,https://scikit-learn.org/stable/user_guide.html,doc
+deep learning,Kaggle Learn - Intro to Deep Learning,https://www.kaggle.com/learn/intro-to-deep-learning,course
+tensorflow,TensorFlow Tutorials,https://www.tensorflow.org/tutorials,doc
+pytorch,PyTorch Tutorials,https://pytorch.org/tutorials/,doc
+statistics,Khan Academy - Statistics and Probability,https://www.khanacademy.org/math/statistics-probability,course
+linear algebra,Khan Academy - Linear Algebra,https://www.khanacademy.org/math/linear-algebra,course
+html,MDN - Learn HTML,https://developer.mozilla.org/en-US/docs/Learn/HTML,doc
+css,MDN - Learn CSS,https://developer.mozilla.org/en-US/docs/Learn/CSS,doc
+javascript,MDN - JavaScript Guide,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide,doc
+javascript,javascript.info,https://javascript.info/,course
+react,React Official Learn,https://react.dev/learn,doc
+typescript,TypeScript Handbook,https://www.typescriptlang.org/docs/handbook/intro.html,doc
+node.js,Node.js Learn,https://nodejs.org/en/learn,doc
+express,Express Getting Started,https://expressjs.com/en/starter/installing.html,doc
+django,Django Official Tutorial,https://docs.djangoproject.com/en/stable/intro/tutorial01/,doc
+flask,Flask Quickstart,https://flask.palletsprojects.com/en/stable/quickstart/,doc
+fastapi,FastAPI Tutorial,https://fastapi.tiangolo.com/tutorial/,doc
+git,Pro Git Book,https://git-scm.com/book/en/v2,doc
+docker,Docker Get Started,https://docs.docker.com/get-started/,doc
+testing,Pytest Getting Started,https://docs.pytest.org/en/stable/getting-started.html,doc
+power bi,Microsoft Learn - Power BI,https://learn.microsoft.com/en-us/power-bi/fundamentals/,course
+tableau,Tableau Free Training Videos,https://www.tableau.com/learn/training,video
+excel,Microsoft Excel Training,https://support.microsoft.com/en-us/excel,doc
+nlp,Hugging Face NLP Course,https://huggingface.co/learn/nlp-course,course
+mongodb,MongoDB University (free),https://learn.mongodb.com/,course
+aws,AWS Cloud Practitioner Essentials,https://explore.skillbuilder.aws/learn,course
+azure,Microsoft Learn - Azure Fundamentals,https://learn.microsoft.com/training/paths/azure-fundamentals-describe-azure-architecture-services/,course
+gcp,Google Cloud Skills Boost,https://www.cloudskillsboost.google/,course
+spark,Spark Official Quick Start,https://spark.apache.org/docs/latest/quick-start.html,doc
+airflow,Airflow Tutorial,https://airflow.apache.org/docs/apache-airflow/stable/tutorial/index.html,doc
+kafka,Kafka Introduction,https://kafka.apache.org/intro,doc
+kubernetes,Kubernetes Basics,https://kubernetes.io/docs/tutorials/kubernetes-basics/,doc
+terraform,HashiCorp Terraform Tutorials,https://developer.hashicorp.com/terraform/tutorials,course
+snowflake,Snowflake Quickstarts,https://quickstarts.snowflake.com/,course
+r,R for Data Science (free book),https://r4ds.hadley.nz/,book
+etl,Data Engineering Zoomcamp,https://github.com/DataTalksClub/data-engineering-zoomcamp,course
+ci/cd,GitHub Actions Docs,https://docs.github.com/actions,doc
+seaborn,Seaborn Tutorial,https://seaborn.pydata.org/tutorial.html,doc
+eda,10 Minutes to pandas,https://pandas.pydata.org/docs/user_guide/10min.html,doc
+keras,Keras Getting Started,https://keras.io/getting_started/,doc
+model deployment,FastAPI - Deployment,https://fastapi.tiangolo.com/deployment/,doc
+angular,Angular Tutorials,https://angular.dev/tutorials,doc
+vue,Vue Tutorial,https://vuejs.org/tutorial/,doc
+rest api,RESTful API Tutorial,https://restfulapi.net/,doc
+responsive design,web.dev - Learn Responsive Design,https://web.dev/learn/design,course
+orm,SQLAlchemy Unified Tutorial,https://docs.sqlalchemy.org/en/20/tutorial/,doc
+data structures,VisuAlgo Data Structures,https://visualgo.net/en,course
+web scraping,Beautiful Soup Documentation,https://beautiful-soup-4.readthedocs.io/en/latest/,doc
+automation,Automate the Boring Stuff with Python,https://automatetheboringstuff.com/,book
+java,dev.java Learn,https://dev.java/learn/,doc
+c++,learncpp.com,https://www.learncpp.com/,course
+jupyter,Jupyter Documentation,https://docs.jupyter.org/en/latest/,doc
+hadoop,Hadoop Single Node Setup,https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html,doc
+scala,Tour of Scala,https://docs.scala-lang.org/tour/tour-of-scala.html,doc
+databricks,Databricks Getting Started,https://docs.databricks.com/en/getting-started/index.html,doc
+bigquery,BigQuery Quickstarts,https://cloud.google.com/bigquery/docs/quickstarts,doc
+nosql,MongoDB University,https://learn.mongodb.com/,course
+go,A Tour of Go,https://go.dev/tour/,course
+c#,Tour of C#,https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/,doc
+sap,SAP Learning,https://learning.sap.com/,course
+vba,Getting Started with VBA in Office,https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office,doc
+matlab,MATLAB Academy,https://matlabacademy.mathworks.com/,course
+jira,Jira Basics Guide,https://www.atlassian.com/software/jira/guides/getting-started/basics,doc
+powerpoint,PowerPoint Help and Learning,https://support.microsoft.com/en-us/powerpoint,doc
+ssis,SSIS Tutorial: Create an ETL Package,https://learn.microsoft.com/en-us/sql/integration-services/ssis-how-to-create-an-etl-package,doc
+computer vision,Kaggle Learn - Computer Vision,https://www.kaggle.com/learn/computer-vision,course
+feature engineering,Kaggle Learn - Feature Engineering,https://www.kaggle.com/learn/feature-engineering,course
+oop,Real Python - Object-Oriented Programming,https://realpython.com/python3-object-oriented-programming/,doc
+linux,Linux Journey,https://linuxjourney.com/,course
+bash,Bash Reference Manual,https://www.gnu.org/software/bash/manual/bash.html,doc
+redshift,Amazon Redshift Getting Started,https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html,doc

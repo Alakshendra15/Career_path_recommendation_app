@@ -1,0 +1,8 @@
+career_id,title,description,interest_tags
+data_analyst,Data Analyst,Collects cleans and analyses data using SQL Excel and BI tools to find insights and build dashboards for business decisions,data|analytics|business|visualization|reporting
+data_scientist,Data Scientist,Uses statistics and machine learning on large datasets to build predictive models and extract insights,data|statistics|machine learning|research|prediction
+python_developer,Python Developer,Builds backend applications APIs and automation scripts using Python and its frameworks,programming|backend|automation|apis|software
+web_developer,Web Developer,Designs and builds responsive websites and web applications using HTML CSS JavaScript and modern frameworks,web|design|frontend|ui|software
+ml_engineer,ML Engineer,Builds trains and deploys machine learning and deep learning models into production systems,machine learning|ai|deep learning|deployment|research
+data_engineer,Data Engineer,Builds and maintains the pipelines and warehouses that move and store data so analysts and data scientists can use it,data|pipelines|big data|cloud|engineering|databases
+cloud_engineer,Cloud Engineer,Designs deploys and automates cloud infrastructure and keeps applications reliable secure and scalable,cloud|infrastructure|devops|automation|security|deployment

@@ -1,0 +1,53 @@
+set,id,note,expected,acceptable,predicted_top1,top3,strict_correct,lenient_correct,in_top3
+core,P01,fresher analyst,data_analyst,,data_analyst,data_analyst|data_engineer|cloud_engineer,True,True,True
+core,P02,analyst who also codes,data_analyst,data_scientist,data_analyst,data_analyst|data_scientist|data_engineer,True,True,True
+core,P03,MBA student,data_analyst,,data_analyst,data_analyst|data_scientist|ml_engineer,True,True,True
+core,P04,BI developer,data_analyst,,data_analyst,data_analyst|data_engineer|data_scientist,True,True,True
+core,P05,stats-heavy graduate,data_analyst,data_scientist,data_analyst,data_analyst|data_scientist|cloud_engineer,True,True,True
+core,P06,classic data scientist,data_scientist,,data_scientist,data_scientist|ml_engineer|data_analyst,True,True,True
+core,P07,data scientist with plots,data_scientist,data_analyst,data_scientist,data_scientist|data_analyst|ml_engineer,True,True,True
+core,P08,research-minded,data_scientist,ml_engineer,data_scientist,data_scientist|ml_engineer|data_analyst,True,True,True
+core,P09,beginner data scientist,data_scientist,data_analyst,data_scientist,data_scientist|data_engineer|ml_engineer,True,True,True
+core,P10,DS who knows SQL,data_scientist,,data_scientist,data_scientist|data_engineer|data_analyst,True,True,True
+core,P11,django backend,python_developer,,python_developer,python_developer|data_engineer|cloud_engineer,True,True,True
+core,P12,flask developer,python_developer,,python_developer,python_developer|data_engineer|cloud_engineer,True,True,True
+core,P13,fastapi developer,python_developer,,python_developer,python_developer|data_engineer|cloud_engineer,True,True,True
+core,P14,automation scripter,python_developer,,python_developer,python_developer|cloud_engineer|data_engineer,True,True,True
+core,P15,DSA-focused student,python_developer,,python_developer,python_developer|data_engineer|cloud_engineer,True,True,True
+core,P16,fresher python,python_developer,,python_developer,python_developer|data_engineer|cloud_engineer,True,True,True
+core,P17,frontend dev,web_developer,,web_developer,web_developer|data_analyst|data_scientist,True,True,True
+core,P18,MERN stack,web_developer,,web_developer,web_developer|data_analyst|data_scientist,True,True,True
+core,P19,beginner web,web_developer,,web_developer,web_developer|data_analyst|data_scientist,True,True,True
+core,P20,TypeScript frontend,web_developer,,web_developer,web_developer|python_developer|cloud_engineer,True,True,True
+core,P21,Vue developer,web_developer,,web_developer,web_developer|data_analyst|data_scientist,True,True,True
+core,P22,web dev who knows Flask,web_developer,python_developer,web_developer,web_developer|python_developer|data_engineer,True,True,True
+core,P23,Keras engineer,ml_engineer,,ml_engineer,ml_engineer|data_scientist|data_engineer,True,True,True
+core,P24,PyTorch vision,ml_engineer,,ml_engineer,ml_engineer|data_scientist|data_engineer,True,True,True
+core,P25,NLP student,ml_engineer,data_scientist,ml_engineer,ml_engineer|data_scientist|data_engineer,True,True,True
+core,P26,MLOps leaning,ml_engineer,,ml_engineer,ml_engineer|data_scientist|cloud_engineer,True,True,True
+core,P27,deep learning student,ml_engineer,data_scientist,ml_engineer,ml_engineer|data_scientist|data_engineer,True,True,True
+core,P28,ambiguous ML+stats,data_scientist,ml_engineer|data_analyst,data_scientist,data_scientist|data_engineer|data_analyst,True,True,True
+core,P29,ambiguous python+sql+excel,data_analyst,python_developer|data_scientist,data_analyst,data_analyst|data_engineer|cloud_engineer,True,True,True
+core,P30,weak signal python only,python_developer,web_developer,data_engineer,data_engineer|cloud_engineer|python_developer,False,False,True
+core,P31,messy aliases web,web_developer,,web_developer,web_developer|data_engineer|data_analyst,True,True,True
+core,P32,messy aliases ML,ml_engineer,,ml_engineer,ml_engineer|data_scientist|data_engineer,True,True,True
+hard,H01,Java dev with SQL and Excel,python_developer,data_analyst|web_developer,data_analyst,data_analyst|data_engineer|cloud_engineer,False,True,False
+hard,H02,frontend dev learning data libs,web_developer,python_developer,web_developer,web_developer|data_scientist|ml_engineer,True,True,True
+hard,H03,analyst moving toward ML,data_analyst,data_scientist,data_analyst,data_analyst|data_scientist|ml_engineer,True,True,True
+hard,H04,online-course ML learner,ml_engineer,data_scientist,data_scientist,data_scientist|ml_engineer|data_analyst,False,True,True
+hard,H05,backend dev with ML basics,python_developer,data_scientist|ml_engineer,data_scientist,data_scientist|python_developer|ml_engineer,False,True,True
+hard,H06,devops-leaning coder,python_developer,ml_engineer,python_developer,python_developer|cloud_engineer|data_engineer,True,True,True
+hard,H07,full stack with Django,web_developer,python_developer,web_developer,web_developer|python_developer|data_engineer,True,True,True
+hard,H08,Excel only,data_analyst,,data_analyst,data_analyst|cloud_engineer|data_scientist,True,True,True
+hard,H09,"SQL only, backend interest",data_analyst,python_developer,data_engineer,data_engineer|data_analyst|python_developer,False,False,True
+hard,H10,React only,web_developer,,web_developer,web_developer|data_analyst|data_scientist,True,True,True
+hard,H11,TensorFlow only,ml_engineer,data_scientist,ml_engineer,ml_engineer|data_analyst|data_scientist,True,True,True
+hard,H12,stats student using R and SPSS,data_analyst,data_scientist,data_scientist,data_scientist|ml_engineer|data_analyst,False,True,True
+hard,H13,typos in free text,data_scientist,data_analyst,data_scientist,data_scientist|ml_engineer|data_analyst,True,True,True
+hard,H14,kitchen-sink profile,python_developer,web_developer|data_scientist|ml_engineer,web_developer,web_developer|data_scientist|ml_engineer,False,True,False
+hard,H15,web skills but ML interest,web_developer,ml_engineer|data_scientist,web_developer,web_developer|ml_engineer|data_scientist,True,True,True
+hard,H16,"one skill, data-science interests",data_scientist,ml_engineer|python_developer,data_engineer,data_engineer|data_scientist|ml_engineer,False,False,True
+hard,H17,BI tools without SQL,data_analyst,,data_analyst,data_analyst|data_scientist|cloud_engineer,True,True,True
+hard,H18,NLP researcher,ml_engineer,data_scientist,ml_engineer,ml_engineer|data_scientist|data_analyst,True,True,True
+hard,H19,"competitive programmer, no Python",python_developer,web_developer,python_developer,python_developer|data_engineer|cloud_engineer,True,True,True
+hard,H20,Android-style developer,python_developer,web_developer,python_developer,python_developer|data_engineer|web_developer,True,True,True

@@ -1,0 +1,93 @@
+career_id,skill,weight,type
+data_analyst,sql,5,core
+data_analyst,excel,5,core
+data_analyst,data visualization,4,core
+data_analyst,power bi,4,core
+data_analyst,tableau,3,supporting
+data_analyst,statistics,4,core
+data_analyst,python,3,supporting
+data_analyst,pandas,3,supporting
+data_analyst,data cleaning,4,core
+data_analyst,eda,3,supporting
+data_analyst,communication,2,supporting
+data_scientist,python,5,core
+data_scientist,statistics,5,core
+data_scientist,pandas,4,core
+data_scientist,numpy,4,core
+data_scientist,machine learning,5,core
+data_scientist,scikit-learn,4,core
+data_scientist,sql,3,supporting
+data_scientist,data visualization,3,supporting
+data_scientist,matplotlib,2,supporting
+data_scientist,eda,4,core
+data_scientist,feature engineering,3,supporting
+data_scientist,deep learning,2,supporting
+data_scientist,linear algebra,3,supporting
+python_developer,python,5,core
+python_developer,oop,4,core
+python_developer,data structures,4,core
+python_developer,django,4,core
+python_developer,flask,3,supporting
+python_developer,fastapi,3,supporting
+python_developer,rest api,4,core
+python_developer,sql,4,core
+python_developer,git,3,supporting
+python_developer,testing,3,supporting
+python_developer,orm,2,supporting
+python_developer,linux,2,supporting
+python_developer,docker,2,supporting
+web_developer,html,5,core
+web_developer,css,5,core
+web_developer,javascript,5,core
+web_developer,react,4,core
+web_developer,responsive design,4,core
+web_developer,git,3,supporting
+web_developer,rest api,3,supporting
+web_developer,typescript,3,supporting
+web_developer,node.js,3,supporting
+web_developer,express,2,supporting
+web_developer,mongodb,2,supporting
+web_developer,sql,2,supporting
+ml_engineer,python,5,core
+ml_engineer,machine learning,5,core
+ml_engineer,deep learning,5,core
+ml_engineer,scikit-learn,4,core
+ml_engineer,tensorflow,4,core
+ml_engineer,pytorch,4,core
+ml_engineer,numpy,4,core
+ml_engineer,pandas,3,supporting
+ml_engineer,linear algebra,4,core
+ml_engineer,statistics,3,supporting
+ml_engineer,model deployment,4,core
+ml_engineer,docker,3,supporting
+ml_engineer,git,2,supporting
+ml_engineer,nlp,2,supporting
+ml_engineer,computer vision,2,supporting
+data_engineer,sql,5,core
+data_engineer,python,5,core
+data_engineer,aws,3,core
+data_engineer,spark,3,core
+data_engineer,azure,3,core
+data_engineer,java,2,supporting
+data_engineer,kafka,1,supporting
+data_engineer,nosql,1,supporting
+data_engineer,scala,1,supporting
+data_engineer,hadoop,1,supporting
+data_engineer,snowflake,1,supporting
+data_engineer,databricks,1,supporting
+data_engineer,git,1,supporting
+data_engineer,airflow,1,supporting
+cloud_engineer,python,3,core
+cloud_engineer,aws,3,core
+cloud_engineer,azure,3,core
+cloud_engineer,sql,2,core
+cloud_engineer,linux,1,supporting
+cloud_engineer,terraform,1,supporting
+cloud_engineer,kubernetes,1,supporting
+cloud_engineer,bash,1,supporting
+cloud_engineer,git,1,supporting
+cloud_engineer,java,1,supporting
+cloud_engineer,gcp,1,supporting
+cloud_engineer,docker,1,supporting
+cloud_engineer,go,1,supporting
+cloud_engineer,excel,1,supporting

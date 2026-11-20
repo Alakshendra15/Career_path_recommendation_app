@@ -1,0 +1,69 @@
+{
+  "personas": {
+    "core": 32,
+    "hard": 20
+  },
+  "hybrid_hard": {
+    "top1_strict": 0.65,
+    "top1_lenient": 0.9,
+    "top3": 0.9,
+    "mrr": 0.7875
+  },
+  "hybrid_hard_top1_strict_ci95": [
+    0.45,
+    0.85
+  ],
+  "hybrid_all_top1_strict_ci95": [
+    0.75,
+    0.9423076923076923
+  ],
+  "sweep_hard_top1_min_max": [
+    0.45,
+    0.75
+  ],
+  "sweep_hybrid_hard_top1": 0.65,
+  "sweep_combos_tied_for_best_on_hard": 2,
+  "sweep_combinations": 66,
+  "supervised": [
+    {
+      "model": "Logistic Regression",
+      "synthetic_test_accuracy": 0.9614285714285714,
+      "core_top1_strict": 0.96875,
+      "hard_top1_strict": 0.7,
+      "hard_top1_lenient": 0.95,
+      "hard_top3": 0.95
+    },
+    {
+      "model": "Random Forest",
+      "synthetic_test_accuracy": 0.9485714285714286,
+      "core_top1_strict": 0.96875,
+      "hard_top1_strict": 0.6,
+      "hard_top1_lenient": 0.85,
+      "hard_top3": 0.9
+    }
+  ],
+  "no_signal": {
+    "S1 soft skills only": {
+      "best": "Data Analyst",
+      "best_score": 15.6,
+      "confidence": "none"
+    },
+    "S2 skills outside the knowledge base": {
+      "best": "Data Analyst",
+      "best_score": 0.0,
+      "confidence": "none"
+    }
+  },
+  "confidence_flag_counts": {
+    "core": {
+      "none": 0,
+      "low": 1,
+      "ok": 31
+    },
+    "hard": {
+      "none": 0,
+      "low": 5,
+      "ok": 15
+    }
+  }
+}

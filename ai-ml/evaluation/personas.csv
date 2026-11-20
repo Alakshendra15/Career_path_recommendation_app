@@ -1,0 +1,53 @@
+set,id,note,skills,interests,tech_stack,experience_type,expected,acceptable
+core,P01,fresher analyst,excel|sql|power bi,business|reporting,,theoretical,data_analyst,
+core,P02,analyst who also codes,sql|python|pandas|tableau|data visualization,analytics,,practical,data_analyst,data_scientist
+core,P03,MBA student,excel|statistics|tableau|communication,business|reporting,,theoretical,data_analyst,
+core,P04,BI developer,power bi|sql|dashboards|data cleaning,visualization,,practical,data_analyst,
+core,P05,stats-heavy graduate,statistics|excel|python|eda,analytics,,theoretical,data_analyst,data_scientist
+core,P06,classic data scientist,python|pandas|numpy|sklearn|statistics|ml,data|prediction,,practical,data_scientist,
+core,P07,data scientist with plots,python|matplotlib|seaborn|eda|statistics|pandas,research,,practical,data_scientist,data_analyst
+core,P08,research-minded,python|statistics|linear algebra|machine learning|scikit-learn,research,,theoretical,data_scientist,ml_engineer
+core,P09,beginner data scientist,python|pandas|numpy|jupyter,data|prediction,,theoretical,data_scientist,data_analyst
+core,P10,DS who knows SQL,sql|python|pandas|scikit-learn|feature engineering|statistics,data,,practical,data_scientist,
+core,P11,django backend,python|django|rest api|sql|git,backend,,practical,python_developer,
+core,P12,flask developer,python|flask|oop|git|testing,software,,practical,python_developer,
+core,P13,fastapi developer,python|fastapi|postgresql|docker|rest api,apis|backend,,practical,python_developer,
+core,P14,automation scripter,python|automation|web scraping|linux|git,automation,,practical,python_developer,
+core,P15,DSA-focused student,python|data structures|oop|java|c++,software|programming,,theoretical,python_developer,
+core,P16,fresher python,python|sql|oop|git,programming,,theoretical,python_developer,
+core,P17,frontend dev,html|css|javascript|react|bootstrap,frontend|ui,,practical,web_developer,
+core,P18,MERN stack,javascript|react|node.js|express|mongodb|html|css,web,,practical,web_developer,
+core,P19,beginner web,html|css|js,web|design,,theoretical,web_developer,
+core,P20,TypeScript frontend,typescript|react|css|git|responsive design,frontend,,practical,web_developer,
+core,P21,Vue developer,vue|javascript|html|css|tailwind,web|ui,,practical,web_developer,
+core,P22,web dev who knows Flask,html|css|javascript|python|flask,web,,practical,web_developer,python_developer
+core,P23,Keras engineer,python|tensorflow|keras|deep learning|numpy,ai|deep learning,,practical,ml_engineer,
+core,P24,PyTorch vision,python|pytorch|deep learning|computer vision|linear algebra,ai,,practical,ml_engineer,
+core,P25,NLP student,python|nlp|deep learning|pytorch|machine learning,ai|research,,practical,ml_engineer,data_scientist
+core,P26,MLOps leaning,python|machine learning|docker|model deployment|scikit-learn|git,deployment,,practical,ml_engineer,
+core,P27,deep learning student,deep learning|tensorflow|machine learning|python|pandas,deep learning,,theoretical,ml_engineer,data_scientist
+core,P28,ambiguous ML+stats,python|machine learning|sql|statistics|pandas,data,,theoretical,data_scientist,ml_engineer|data_analyst
+core,P29,ambiguous python+sql+excel,python|sql|excel,,,theoretical,data_analyst,python_developer|data_scientist
+core,P30,weak signal python only,python,web,,theoretical,python_developer,web_developer
+core,P31,messy aliases web,JS|ReactJS|NodeJS|MySQL|HTML5|CSS3,web,,practical,web_developer,
+core,P32,messy aliases ML,python|neural networks|sklearn|TensorFlow|numpy|machine learning,ai|deep learning,,practical,ml_engineer,
+hard,H01,Java dev with SQL and Excel,java|sql|excel|spring boot,,,practical,python_developer,data_analyst|web_developer
+hard,H02,frontend dev learning data libs,html|css|javascript|react|python|pandas|numpy,web,,practical,web_developer,python_developer
+hard,H03,analyst moving toward ML,sql|excel|power bi|python|scikit-learn|machine learning|statistics,analytics,,practical,data_analyst,data_scientist
+hard,H04,online-course ML learner,machine learning|deep learning|python|statistics|linear algebra|numpy,research,,theoretical,ml_engineer,data_scientist
+hard,H05,backend dev with ML basics,python|django|sql|scikit-learn|machine learning|pandas,backend,,practical,python_developer,data_scientist|ml_engineer
+hard,H06,devops-leaning coder,docker|linux|git|python|testing,,,practical,python_developer,ml_engineer
+hard,H07,full stack with Django,javascript|react|node.js|python|django|sql|html|css,web,,practical,web_developer,python_developer
+hard,H08,Excel only,excel,,,theoretical,data_analyst,
+hard,H09,"SQL only, backend interest",sql,backend|database,,theoretical,data_analyst,python_developer
+hard,H10,React only,react,,,theoretical,web_developer,
+hard,H11,TensorFlow only,tensorflow,,,theoretical,ml_engineer,data_scientist
+hard,H12,stats student using R and SPSS,statistics|r|spss,research,,theoretical,data_analyst,data_scientist
+hard,H13,typos in free text,pyhton|pandas|numpy|machine lerning,data,,theoretical,data_scientist,data_analyst
+hard,H14,kitchen-sink profile,python|sql|html|css|javascript|react|pandas|machine learning|docker|git,,,practical,python_developer,web_developer|data_scientist|ml_engineer
+hard,H15,web skills but ML interest,html|css|javascript,machine learning|ai,,theoretical,web_developer,ml_engineer|data_scientist
+hard,H16,"one skill, data-science interests",python,data|machine learning|research|prediction,,theoretical,data_scientist,ml_engineer|python_developer
+hard,H17,BI tools without SQL,excel|tableau|power bi|data visualization,reporting,,practical,data_analyst,
+hard,H18,NLP researcher,nlp|python|statistics|linear algebra|deep learning,research,,practical,ml_engineer,data_scientist
+hard,H19,"competitive programmer, no Python",c++|java|data structures|oop|git,programming,,theoretical,python_developer,web_developer
+hard,H20,Android-style developer,java|git|rest api|sql|oop,software,,practical,python_developer,web_developer
