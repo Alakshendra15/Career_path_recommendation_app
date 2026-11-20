@@ -26,3 +26,4 @@ backend/.pgdata/
 ai-ml/data/real/
 .expo/
 frontend/.expo/
+frontend/expo-temp/
